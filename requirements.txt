@@ -1,0 +1,6 @@
+colorama==0.4.6
+configparser
+psutil
+requests
+python-dotenv
+pywin32; platform_system=="Windows"
