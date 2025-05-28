@@ -373,6 +373,49 @@ flowchart TD
 
 <hr>
 
+## 📊 项目统计
+
+<div align="center">
+
+### 实时项目数据
+
+<div style="background-color: white; padding: 20px; margin: 10px; border-radius: 5px;">
+  <a href="https://star-history.com/#Xie-Rutai/cursor-manager&Date" target="_blank">
+    <img src="https://api.star-history.com/svg?repos=Xie-Rutai/cursor-manager&type=Date" alt="Star History Chart" width="800" height="400">
+  </a>
+</div>
+
+<br>
+
+<p><b>项目活跃度</b></p>
+
+<a href="https://github.com/Xie-Rutai/cursor-manager">
+  <img src="https://img.shields.io/github/stars/Xie-Rutai/cursor-manager?style=for-the-badge&logo=github" alt="GitHub stars">
+</a>
+<a href="https://github.com/Xie-Rutai/cursor-manager/network/members">
+  <img src="https://img.shields.io/github/forks/Xie-Rutai/cursor-manager?style=for-the-badge&logo=github" alt="GitHub forks">
+</a>
+<a href="https://github.com/Xie-Rutai/cursor-manager/watchers">
+  <img src="https://img.shields.io/github/watchers/Xie-Rutai/cursor-manager?style=for-the-badge&logo=github" alt="GitHub watchers">
+</a>
+
+<br><br>
+
+<p>访问量统计</p>
+<img src="https://profile-counter.glitch.me/Xie-Rutai-cursor-manager/count.svg" alt="访问计数器" width="250">
+
+</div>
+
+<hr>
+
+<div align="center">
+  <p>
+  Copyright © 2025 Cursor Manager
+  </p>
+</div>
+
+<hr>
+
 ## ⚠️ 免责声明
 
 <table>
@@ -383,29 +426,4 @@ flowchart TD
 
 </td>
 </tr>
-</table>
-
-<hr>
-
-<div align="center">
-  <br>
-  <p>
-  Copyright © 2025 Cursor Manager
-  </p>
-</div>
-
-## 📊 项目统计
-
-<div align="center">
-  
-### 实时项目数据
-
-[![Stargazers over time](https://starchart.cc/Xie-Rutai/cursor-manager.svg)](https://starchart.cc/Xie-Rutai/cursor-manager)
-
-[![GitHub stars](https://img.shields.io/github/stars/Xie-Rutai/cursor-manager?style=social)](https://github.com/Xie-Rutai/cursor-manager)
-[![GitHub forks](https://img.shields.io/github/forks/Xie-Rutai/cursor-manager?style=social)](https://github.com/Xie-Rutai/cursor-manager/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/Xie-Rutai/cursor-manager?style=social)](https://github.com/Xie-Rutai/cursor-manager/watchers)
-
-![Visitor Count](https://profile-counter.glitch.me/Xie-Rutai-cursor-manager/count.svg)
-
-</div> 
+</table> 
