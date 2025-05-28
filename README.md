@@ -379,11 +379,8 @@ flowchart TD
 
 ### 实时项目数据
 
-<div style="background-color: white; padding: 20px; margin: 10px; border-radius: 5px;">
-  <a href="https://star-history.com/#Xie-Rutai/cursor-manager&Date" target="_blank">
-    <img src="https://api.star-history.com/svg?repos=Xie-Rutai/cursor-manager&type=Date" alt="Star History Chart" width="800" height="400">
-  </a>
-</div>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Xie-Rutai/cursor-manager&type=Date)](https://www.star-history.com/#Xie-Rutai/cursor-manager&Date)
 
 <br>
 
