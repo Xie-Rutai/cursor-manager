@@ -379,9 +379,6 @@ flowchart TD
 
 ### 实时项目数据
 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Xie-Rutai/cursor-manager&type=Date)](https://www.star-history.com/#Xie-Rutai/cursor-manager&Date)
-
 <br>
 
 <p><b>项目活跃度</b></p>
