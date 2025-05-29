@@ -400,6 +400,9 @@ flowchart TD
 
 </div>
 
+<div align="center">
+  <img src="./assets/images/交流.jpg" alt="交流群" width="300">
+</div>
 <hr>
 
 <div align="center">
