@@ -398,11 +398,14 @@ flowchart TD
 <p>访问量统计</p>
 <img src="https://profile-counter.glitch.me/Xie-Rutai-cursor-manager/count.svg" alt="访问计数器" width="250">
 
-</div>
-
-<div align="center">
-  <img src="./assets/images/交流.jpg" alt="交流群" width="300">
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
+      <img src="assets/images/交流.jpg" alt="交流群" width="300"><br>
+      <b>扫码加入交流群</b>
+    </td>
+  </tr>
+</table>
 <hr>
 
 <div align="center">
