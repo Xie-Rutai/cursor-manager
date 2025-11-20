@@ -381,7 +381,7 @@ flowchart TD
 
 <br>
 
-<p><b>项目活跃度</b></p>
+<p><b>QQ交流群+950382968</b></p>
 
 <a href="https://github.com/Xie-Rutai/cursor-manager">
   <img src="https://img.shields.io/github/stars/Xie-Rutai/cursor-manager?style=for-the-badge&logo=github" alt="GitHub stars">
