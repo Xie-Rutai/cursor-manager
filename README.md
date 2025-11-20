@@ -401,7 +401,7 @@ flowchart TD
 <table align="center">
   <tr>
     <td align="center" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-      <img src="assets/images/交流.jpg" alt="交流群" width="300"><br>
+      <img src="assets/images/交流.jpg" alt="QQ交流群+950382968" width="300"><br>
       <b>扫码加入交流群</b>
     </td>
   </tr>
